@@ -10,8 +10,8 @@ is a comment, which your program should ignore.
 
 For example, if the input is
 
-# test case 1
-# 4 points p0, p1, p2, p3
+test case 1
+4 points p0, p1, p2, p3
 0	0
 0	1
 1	1
@@ -48,16 +48,3 @@ best performance, and the largest such product in the class getting only 70%
 of the 50 points (i.e., 35 points) for the worst performance.  If you write in
 Java you will only be compared against the other Java programs, and similarly
 for C++.
-
-Follow a good style guide (e.g.,
-http://google-styleguide.googlecode.com/svn/trunk/cppguide.html or
-http://www.stroustrup.com/Programming/PPP-style.pdf for C++, or
-http://www.oracle.com/technetwork/java/codeconvtoc-136057.html for Java).
-
-Also follow these three rules:
-1.  No more than one statement per line.
-2.  No function longer than 24 lines (one terminal window).
-3.  No line longer than 80 characters.
-
-Name your program project1.cpp or Project1.java and submit this source file
-using CSNET.
